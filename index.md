@@ -29,7 +29,9 @@ My research advisor is [Sakib Miazi](https://www.khoury.northeastern.edu/people/
 
 ## About My Project
 
-Project description goes here.
+This project is a qualitative human-computer interaction study examining the impact of AI on education, both inside and outside the classroom. Our research explores how AI is changing different aspects of teachers' work — including administrative tasks, lesson planning, and grading - and what best practices are emerging around its use in educational settings. 
+
+To answer these questions, we are collecting posts and discussions from Reddit communities for teachers and professors, using thematic analysis to identify patterns and themes across thousands of posts. The findings will be synthesized into a report that tells a coherent story tied back to our core research questions, with the goal of producing a practical proposal that educators can use to navigate AI in their professional lives. Time permitting, we also hope to develop a tool to help professors apply these insights directly and immediately.
 
 [My Final Report](files/finalreport.pdf)
 
