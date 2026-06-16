@@ -20,7 +20,12 @@ I'm always open to collaborating, as I love taking on challenging projects to gr
 
 ## About My Advisor
 
-Advisor info goes here.
+My research advisor is [Sakib Miazi](https://www.khoury.northeastern.edu/people/sakib-miazi/), an Assistant Teaching Professor at the Khoury College of Computer Sciences at Northeastern University. 
+### Research Interests
+- Usable security and privacy 
+- Computing education 
+- Human–computer interaction 
+- Security and privacy
 
 ## About My Project
 
