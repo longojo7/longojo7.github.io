@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $forestGreen;
+  color: $jungleTeal;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $forestGreen;
+    color: $jungleTeal;
   }
 }
 
@@ -232,7 +232,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $forestGreen;
+      color: $jungleTeal;
     }
   }
 }
