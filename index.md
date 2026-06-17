@@ -32,8 +32,7 @@ to contact me via email or LinkedIn to explore potential opportunities.
 ## About My Advisor
 
 My research advisor is [Sakib Miazi](https://www.khoury.northeastern.edu/people/sakib-miazi/), an Assistant Teaching
-Professor at the Khoury College of Computer Sciences at Northeastern University. 
-### Research Interests
+Professor at the Khoury College of Computer Sciences at Northeastern University. His research interests include:
 - Usable security and privacy 
 - Computing education 
 - Human–computer interaction 
