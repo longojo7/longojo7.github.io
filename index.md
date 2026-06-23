@@ -19,8 +19,8 @@ human decision-making and building software projects through coursework has grow
 more formal research context for the first time. 
 
 I am deeply passionate about AI model development, driven by a desire to explore how to build more efficient models
-without irresponsibly using that technology. My specific interests lie in Machine Learning, Reinforcement Learning, and
-Neural Networks, particularly Transformer Models. Learning the architecture behind these systems to fully understand their
+without irresponsibly using that technology. My specific interests lie in machine Learning, reinforcement learning, and
+neural networks, particularly transformer models. Learning the architecture behind these systems to fully understand their
 power and limitations is where my curiosity lies.
 
 Outside of academics, I enjoy playing video games, going to the movies, spending money on fancy meals, watching the Boston
@@ -32,11 +32,7 @@ to contact me via email or LinkedIn to explore potential opportunities.
 ## About My Advisor
 
 My research advisor is [Sakib Miazi](https://www.khoury.northeastern.edu/people/sakib-miazi/), an Assistant Teaching
-Professor at the Khoury College of Computer Sciences at Northeastern University. His research interests include:
-- Usable security and privacy 
-- Computing education 
-- Human–computer interaction 
-- Security and privacy
+Professor at the Khoury College of Computer Sciences at Northeastern University. His research interests include: usable security and privacy, computing education, human–computer interaction, and security and privacy
 
 ## About My Project
 
