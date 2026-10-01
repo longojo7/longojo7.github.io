@@ -47,7 +47,7 @@ report that tells a coherent story tied back to our core research questions, wit
 proposal that educators can use to navigate AI in their professional lives. Time permitting, we also hope to develop a
 tool to help professors apply these insights directly and immediately.
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/dream_SIGCSE_poster_2027.pdf)
 
 ## My Blog
 
